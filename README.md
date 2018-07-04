@@ -8,7 +8,7 @@ The data is provided in ASCII format and is flat/line sequential, also called a 
 To import any txt file into STATA, one has to first create a dictionary file (.dct) following the layout of the data, and then import it into STATA using the infix command through the dictionary file. 
 
 ### Layout of the data
-* Block 3: Household characteristics
+* Block 3 (level 2): Household characteristics
 * Block 4: Demographic particulars of household members
 * Block 5: Particulars of former household members who died during the last 365 days
 * Block 6: Particulars of medical treatment received as in-patient of a medical institution during the last 365 days
