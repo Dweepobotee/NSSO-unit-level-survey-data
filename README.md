@@ -15,6 +15,6 @@ To import any txt file into STATA, one has to first create a dictionary file (.d
 * Block 7 (level 6): Expenses incurred during the last 365 days for treatment of members as in-patient of medical institution
 * Block 8 (level 7): Particulars of spells of ailment of household members during the last 15 days (including hospitalisation)
 * Block 9 (level 8): Expenses incurred during the last 15 days for treatment of members (not as an in-patient of medical institution)
-* Block 10:	Particulars of economic independence and state of health of persons aged 60 years and above
+* Block 10 (level 9):	Particulars of economic independence and state of health of persons aged 60 years and above
 * Block 11:	Particulars of pre-natal and post-natal care for women of age 15-49 years during the last 365 days
 
