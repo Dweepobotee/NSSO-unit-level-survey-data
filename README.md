@@ -10,7 +10,7 @@ To import any txt file into STATA, one has to first create a dictionary file (.d
 ### Layout of the data
 * Block 3 (level 2): Household characteristics
 * Block 4 (level 4): Demographic particulars of household members
-* Block 5: Particulars of former household members who died during the last 365 days
+* Block 5 (level 3): Particulars of former household members who died during the last 365 days
 * Block 6: Particulars of medical treatment received as in-patient of a medical institution during the last 365 days
 * Block 7: Expenses incurred during the last 365 days for treatment of members as in-patient of medical institution
 * Block 8: Particulars of spells of ailment of household members during the last 15 days (including hospitalisation)
