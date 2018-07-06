@@ -5,7 +5,7 @@ infix dictionary
 	 str round 9-10
 	 str schedule 11-13
 	 str sample 14-14
-	 sector 15-15
+	 str sector 15-15
 	 str nss_region 16-18
 	 str district 19-20
 	 str stratum 21-23
