@@ -39,5 +39,5 @@ infix dictionary
 	 str mlt 133-142
 }
 
-infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level1.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L01.txt")
+infix using "<insert file path to dictionary file>", using ("<insert file path name to .txt file>")
 egen hhid=concat( fsu sub_block_num sss_num hhnum)
