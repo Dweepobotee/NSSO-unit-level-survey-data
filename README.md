@@ -18,3 +18,4 @@ To import any txt file into STATA, one has to first create a dictionary file (.d
 * Block 10 (level 9):	Particulars of economic independence and state of health of persons aged 60 years and above
 * Block 11 (level 10):	Particulars of pre-natal and post-natal care for women of age 15-49 years during the last 365 days
 
+The layout of the data in each block is given in the excel file 'datalay71250.xls'.
