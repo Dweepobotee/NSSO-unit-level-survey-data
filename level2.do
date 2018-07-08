@@ -1,33 +1,3 @@
-infix dictionary
-{
-     str common_id 1-35     
-	 str fsu 4-8
-	 sector 15-15
-	 str sub_block_num 32-32
-	 str sss_num 33-33
-	 str hhnum 34-35
-	 str level 36-37
-	 str filler 38-42
-	 str state_code 16-17
-	 state_name 16-17
-	 str district_code 19-20
-	 hh_size 43-44
-	 str nic_code 45-49
-	 str nco_code 50-52
-	 hh_type 53-53
-	 religion 54-54
-	 social_grp 55-55
-	 latrine_type 56-56
-	 drainage_type 57-57
-	 drinking_source 58-58
-	 energy_cooking 59-60
-	 medical_premium 61-68
-	 hh_consumer_exp 69-76
-	 blank 77-126
-	 str nss 127-129
-	 str nsc 130-132
-	 str mlt 133-142
-}	 	 
 
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level2.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L02.txt")
 
