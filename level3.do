@@ -1,5 +1,5 @@
 
-infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level3.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L03.txt")
+infix using "<insert path name to dictionary file here>", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L03.txt")
 *************************
 ** Labelling variables **
 *************************
