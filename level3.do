@@ -1,26 +1,3 @@
-infix dictionary
-{
-     str common_id 1-35
-	 str fsu 4-8
-	 sector 15-15
-	 str sub_block_num 32-32
-	 str sss_num 33-33
-	 str hhnum 34-35
-	 str level 36-37
-	 str filler 38-40
-	 person_id 41-42
-	 sex 43-43
-	 age_at_death 44-46
-	 medical_atn 47-47
-	 hospitalised 48-48
-	 no_hospitalised 49-50
-	 pregnant 51-51
-	 time_death 52-52
-	 blank 53-126
-	 str nss 127-129
-	 str nsc 130-132
-	 str mlt 133-142
-}
 
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level3.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L03.txt")
 *************************
