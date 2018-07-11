@@ -1,5 +1,5 @@
 
-infix using "<Insert path name to ductionary file>", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L04.txt")
+infix using "<Insert path name to ductionary file>", using ("<Insert path name to level 4 .txt file>")
 
 ************************************
 ** Labelling variables and values **
