@@ -22,5 +22,6 @@ The layout of the data in each block is given in the excel file 'datalay71250.xl
 
 The first 35 bytes of data in each block of data contain the 'common id'.
 
-The unique household id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number.
-The unique person id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number + Person Number.
+* The unique household id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number.
+* The unique person id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number + Person Number.
+* The unique hospitalization id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number + Person Number + Hospitalization Number.
