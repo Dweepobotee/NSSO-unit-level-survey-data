@@ -1,11 +1,5 @@
 
-     str common_id 1-35
-	 str fsu 4-8
-	 sector 15-15
-	 str sub_block_num 32-32
-	 str sss_num 33-33
-	 str hhnum 34-35
-	 str level 36-37
+     
 	 str filler 38-38
 	 str hospitalisation_sl 39-40
 	 str prsn_sl 41-42
