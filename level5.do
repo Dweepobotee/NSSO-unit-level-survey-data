@@ -2,9 +2,7 @@
      
 	 
 
-	 tests 60-60
-	 other_tests 61-61
-	 treated_before_hosp 62-62
+	
 	 bh_nature_of_treatment 63-63
 	 bh_level_of_care 64-64
 	 bh_duration_of_treatment 65-69
