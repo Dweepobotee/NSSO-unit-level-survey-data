@@ -1,10 +1,7 @@
 
      
 	 
-	 
-	 duration_of_stay 53-57
-	 surgery 58-58
-	 medicine 59-59
+
 	 tests 60-60
 	 other_tests 61-61
 	 treated_before_hosp 62-62
