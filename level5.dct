@@ -1,0 +1,38 @@
+infix dictionary
+{
+     str common_id 1-35
+	 str fsu 4-8
+	 sector 15-15
+	 str sub_block_num 32-32
+	 str sss_num 33-33
+	 str hhnum 34-35
+	 str level 36-37
+	 str filler 38-38
+	 str hospitalisation_sl 39-40
+	 str prsn_sl 41-42
+	 age 43-45
+	 ailment 46-47
+	 treatment 48-48
+	 level_of_care 49-49
+	 ward 50-50
+	 when_admitted 51-51
+	 when_discharged 52-52
+	 duration_of_stay 53-57
+	 surgery 58-58
+	 medicine 59-59
+	 tests 60-60
+	 other_tests 61-61
+	 treated_before_hosp 62-62
+	 bh_nature_of_treatment 63-63
+	 bh_level_of_care 64-64
+	 bh_duration_of_treatment 65-69
+	 trtmnt_post_dischrg 70-70
+	 ah_nature_of_treatment 71-71
+	 ah_level_of_care 72-72
+	 ah_duration_of_treatment 73-77
+	 blank 78-126
+	 str nss 127-129
+	 str nsc 130-132
+	 str mlt 133-142
+}
+	 
