@@ -1,5 +1,4 @@
-infix dictionary
-{
+
      str common_id 1-35
 	 str fsu 4-8
 	 sector 15-15
