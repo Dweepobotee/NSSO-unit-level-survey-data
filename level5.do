@@ -1,18 +1,5 @@
 
-     
-	 
-
-	
-	 
-	 trtmnt_post_dischrg 70-70
-	 ah_nature_of_treatment 71-71
-	 ah_level_of_care 72-72
-	 ah_duration_of_treatment 73-77
-	 blank 78-126
-	 str nss 127-129
-	 str nsc 130-132
-	 str mlt 133-142
-}
+ 
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level5.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L05.txt")
 
 ************************************
