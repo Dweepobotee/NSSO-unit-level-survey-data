@@ -1,10 +1,7 @@
 
      
 	 
-	 level_of_care 49-49
-	 ward 50-50
-	 when_admitted 51-51
-	 when_discharged 52-52
+	 
 	 duration_of_stay 53-57
 	 surgery 58-58
 	 medicine 59-59
