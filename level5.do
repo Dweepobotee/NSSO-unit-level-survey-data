@@ -1,11 +1,6 @@
 
      
-	 str filler 38-38
-	 str hospitalisation_sl 39-40
-	 str prsn_sl 41-42
-	 age 43-45
-	 ailment 46-47
-	 treatment 48-48
+	 
 	 level_of_care 49-49
 	 ward 50-50
 	 when_admitted 51-51
