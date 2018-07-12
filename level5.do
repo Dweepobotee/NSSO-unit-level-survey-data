@@ -3,9 +3,7 @@
 	 
 
 	
-	 bh_nature_of_treatment 63-63
-	 bh_level_of_care 64-64
-	 bh_duration_of_treatment 65-69
+	 
 	 trtmnt_post_dischrg 70-70
 	 ah_nature_of_treatment 71-71
 	 ah_level_of_care 72-72
