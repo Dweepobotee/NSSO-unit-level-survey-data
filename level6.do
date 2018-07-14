@@ -1,11 +1,4 @@
- package_component 47-53
-	 doctor_fee 54-60
-	 medicine 61-67
-	 diagnostic_tests 68-73
-	 bed_charges 74-80
-	 other_expenses 81-87
-	 total_med_expense 88-94
-	 transport 95-100
+ 
 	 non_medical_expenses 101-107
 	 total_expense 108-115
 	 amt_reimbursed 116-122
