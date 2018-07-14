@@ -1,14 +1,3 @@
- 
-	 non_medical_expenses 101-107
-	 total_expense 108-115
-	 amt_reimbursed 116-122
-	 major_source_finance 123-123
-	 second_source_finance 124-124
-	 hospitalisation_state 125-126
-	 str nss 127-129
-	 str nsc 130-132
-	 str mlt 133-142
-}
 
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level6.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L06.txt")
 
