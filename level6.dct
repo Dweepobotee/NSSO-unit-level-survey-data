@@ -1,0 +1,32 @@
+infix dictionary
+{
+     str common_id 1-35
+	 str fsu 4-8
+	 sector 15-15
+	 str sub_block_num 32-32
+	 str sss_num 33-33
+	 str hhnum 34-35
+	 str level 36-37
+	 str filler 38-38
+	 str hospitalisation_sl 39-40
+	 str prsn_sl 41-42
+	 age 43-45
+	 free_medical_advice 46-46
+	 package_component 47-53
+	 doctor_fee 54-60
+	 medicine 61-67
+	 diagnostic_tests 68-73
+	 bed_charges 74-80
+	 other_expenses 81-87
+	 total_med_expense 88-94
+	 transport 95-100
+	 non_medical_expenses 101-107
+	 total_expense 108-115
+	 amt_reimbursed 116-122
+	 major_source_finance 123-123
+	 second_source_finance 124-124
+	 hospitalisation_state 125-126
+	 str nss 127-129
+	 str nsc 130-132
+	 str mlt 133-142
+}
