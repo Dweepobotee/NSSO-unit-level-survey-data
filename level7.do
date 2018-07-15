@@ -1,6 +1,5 @@
 
-{
-     str common_id 1-35
+
 	 str fsu 4-8
 	 sector 15-15
 	 str sub_block_num 32-32
