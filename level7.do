@@ -5,9 +5,7 @@
 	
 	
 	
-	 days_bedrest 50-51
-	 nature_of_ailment 52-53
-	 chronic 54-54
+
 	 ailment_status 55-55
 	 ailment_duration 56-60
 	 nature_of_treatment 61-61
