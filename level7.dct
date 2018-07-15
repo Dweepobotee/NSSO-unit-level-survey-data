@@ -1,0 +1,33 @@
+infix dictionary
+{
+     str common_id 1-35
+	 str fsu 4-8
+	 sector 15-15
+	 str sub_block_num 32-32
+	 str sss_num 33-33
+	 str hhnum 34-35
+	 str level 36-37
+	 str filler 38-38
+	 str ailment_sl 39-40
+	 str prsn_sl 41-42
+	 age 43-45
+	 days_ill 46-47
+	 days_restricted 48-49
+	 days_bedrest 50-51
+	 nature_of_ailment 52-53
+	 chronic 54-54
+	 ailment_status 55-55
+	 ailment_duration 56-60
+	 nature_of_treatment 61-61
+	 hospitalised 62-62
+	 treatment 63-63
+	 level_of_care 64-64
+	 reason_not_govt_service 65-65
+	 reason_not_medical_advice 66-66
+	 whom_consulted 67-67
+	 loss_of_income 68-75
+	 blank 76-126
+	 str nss 127-129
+	 str ncc 130-132
+	 str mlt 133-142
+}
