@@ -6,9 +6,6 @@
 	
 	
 
-	 ailment_status 55-55
-	 ailment_duration 56-60
-	 nature_of_treatment 61-61
 	 hospitalised 62-62
 	 treatment 63-63
 	 level_of_care 64-64
