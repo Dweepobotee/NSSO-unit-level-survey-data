@@ -2,8 +2,7 @@
 
 	
 	 
-	 str hhnum 34-35
-	 str level 36-37
+	
 	 str filler 38-38
 	 str ailment_sl 39-40
 	 str prsn_sl 41-42
