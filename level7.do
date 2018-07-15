@@ -6,11 +6,7 @@
 	
 	
 
-	 hospitalised 62-62
-	 treatment 63-63
-	 level_of_care 64-64
-	 reason_not_govt_service 65-65
-	 reason_not_medical_advice 66-66
+	 
 	 whom_consulted 67-67
 	 loss_of_income 68-75
 	 blank 76-126
