@@ -4,9 +4,7 @@
 	 
 	
 	
-	 age 43-45
-	 days_ill 46-47
-	 days_restricted 48-49
+	
 	 days_bedrest 50-51
 	 nature_of_ailment 52-53
 	 chronic 54-54
