@@ -7,9 +7,7 @@
 	
 
 	 
-	 whom_consulted 67-67
-	 loss_of_income 68-75
-	 blank 76-126
+	
 	 str nss 127-129
 	 str ncc 130-132
 	 str mlt 133-142
