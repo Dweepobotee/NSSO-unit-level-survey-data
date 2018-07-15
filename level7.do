@@ -1,7 +1,6 @@
 
 
-	 str fsu 4-8
-	 sector 15-15
+	
 	 str sub_block_num 32-32
 	 str sss_num 33-33
 	 str hhnum 34-35
