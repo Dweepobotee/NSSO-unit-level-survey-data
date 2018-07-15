@@ -3,9 +3,7 @@
 	
 	 
 	
-	 str filler 38-38
-	 str ailment_sl 39-40
-	 str prsn_sl 41-42
+	
 	 age 43-45
 	 days_ill 46-47
 	 days_restricted 48-49
