@@ -1,8 +1,6 @@
 
 	 
-	 surgery 47-47
-	 medicine_received 48-48
-	 medicine_received_other 49-49
+	
 	 tests 50-50
 	 other_tests 51-51
 	 doctor_fee 52-58
