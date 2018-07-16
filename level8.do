@@ -4,12 +4,7 @@
 	 
 	
 	 
-	 second_source_finance 122-122
-	 hospitalisation_state 123-124
-	 str nss 127-129
-	 str ncc 130-132
-	 str mlt 133-142
-}
+	
 
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level8.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L08.txt")
 
