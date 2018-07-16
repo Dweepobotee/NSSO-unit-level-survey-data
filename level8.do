@@ -2,10 +2,7 @@
 	 
 	
 	 
-	 medicine_other_fee 65-71
-	 tests_fee 72-77
-	 medical_expenses_fee 78-84
-	 total_med_expense 85-92
+	
 	 transport 93-98
 	 non_medical_expenses 99-105
 	 total_expenditure 106-113
