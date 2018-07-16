@@ -3,11 +3,7 @@
 	
 	 
 	
-	 transport 93-98
-	 non_medical_expenses 99-105
-	 total_expenditure 106-113
-	 amt_reimbursed 114-120
-	 major_source_finance 121-121
+	 
 	 second_source_finance 122-122
 	 hospitalisation_state 123-124
 	 str nss 127-129
