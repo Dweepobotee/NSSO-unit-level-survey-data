@@ -1,10 +1,7 @@
 
 	 
 	
-	 tests 50-50
-	 other_tests 51-51
-	 doctor_fee 52-58
-	 medicine_AYUSH_fee 59-64
+	 
 	 medicine_other_fee 65-71
 	 tests_fee 72-77
 	 medical_expenses_fee 78-84
