@@ -1,8 +1,5 @@
 
-	 str filler 38-40
-	 str prsn_sl 41-42
-	 age 43-45
-	 free_medical_advice 46-46
+	 
 	 surgery 47-47
 	 medicine_received 48-48
 	 medicine_received_other 49-49
