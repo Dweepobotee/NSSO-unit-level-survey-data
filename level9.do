@@ -1,11 +1,6 @@
 
 	
-	 prsn_fncly_sup_old 53-53
-	 living_arngmnt 54-54
-	 physical_mobility 55-55
-	 prsn_helping 56-56
-	 curent_health 57-57
-	 change_in_health 58-58
+	
 	 blank 59-126
 	 str nss 127-129
 	 str ncc 130-132
