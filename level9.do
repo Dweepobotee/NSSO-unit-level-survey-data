@@ -1,11 +1,5 @@
 
-	 str filler 38-40
-	 str prsn_sl 41-42
-	 age 43-45
-	 no_living_son 46-47
-	 no_living_daughter 48-49
-	 state_econ_dependence 50-50
-	 no_dependents 51-52
+	
 	 prsn_fncly_sup_old 53-53
 	 living_arngmnt 54-54
 	 physical_mobility 55-55
