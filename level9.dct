@@ -1,0 +1,29 @@
+infix dictionary
+{
+     str common_id 1-35
+	 str fsu 4-8
+	 sector 15-15
+	 str sub_block_num 32-32
+	 str sss_num 33-33
+	 str hhnum 34-35
+	 str level 36-37
+	 str filler 38-40
+	 str prsn_sl 41-42
+	 age 43-45
+	 no_living_son 46-47
+	 no_living_daughter 48-49
+	 state_econ_dependence 50-50
+	 no_dependents 51-52
+	 prsn_fncly_sup_old 53-53
+	 living_arngmnt 54-54
+	 physical_mobility 55-55
+	 prsn_helping 56-56
+	 curent_health 57-57
+	 change_in_health 58-58
+	 blank 59-126
+	 str nss 127-129
+	 str ncc 130-132
+	 str mlt 133-142
+}
+
+	 
