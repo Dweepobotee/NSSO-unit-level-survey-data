@@ -1,12 +1,4 @@
 
-	
-	
-	 blank 59-126
-	 str nss 127-129
-	 str ncc 130-132
-	 str mlt 133-142
-}
-
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level9.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L09.txt")
 
 ************************************
