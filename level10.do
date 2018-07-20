@@ -1,13 +1,4 @@
 
-	 
-	 nature_postnatal 63-63
-	 exp_postnatal 64-71
-	 blank 72-126
-	 str nss 127-129
-	 str ncc 130-132
-	 str mlt 134-142
-}
-
 infix using "C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\level10.dct", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L10.txt")
 
 ************************************
