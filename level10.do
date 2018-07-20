@@ -1,13 +1,5 @@
 
-	 sl_no_pregnancy 47-47
-	 tetanus 48-48
-	 IFA 49-49
-	 prenatal 50-50
-	 nature_prenatal 51-51
-	 exp_prenatal 52-59
-	 outcome 60-60
-	 plc_delivery 61-61
-	 postnatal 62-62
+	 
 	 nature_postnatal 63-63
 	 exp_postnatal 64-71
 	 blank 72-126
