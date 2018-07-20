@@ -1,5 +1,5 @@
 
-infix using "<Insert path name to dictionary file>", using ("C:\Users\Dweepobotee Brahma\Documents\NSSO\NSSO Data\Nss71_25.0\Data\R71250L10.txt")
+infix using "<Insert path name to dictionary file>", using ("<Insert path name to .txt for level 10 data>")
 
 ************************************
 ** Labelling variables and values **
