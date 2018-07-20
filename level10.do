@@ -1,16 +1,4 @@
-infix dictionary
-{
-     str common_id 1-35
-	 str fsu 4-8
-	 sector 15-15
-	 str sub_block_num 32-32
-	 str sss_num 33-33
-	 str hhnum 34-35
-	 str level 36-37
-	 str filler 38-40
-	 str prsn_sl 41-42
-	 age 43-45
-	 pregnant 46-46
+
 	 sl_no_pregnancy 47-47
 	 tetanus 48-48
 	 IFA 49-49
