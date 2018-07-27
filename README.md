@@ -26,4 +26,4 @@ The first 35 bytes of data in each block of data contain the 'common id'.
 * The unique person id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number + Person Number.
 * The unique hospitalization id can be constructed by concatenating FSU serial number + Segment Number + Second Stage stratum Number + Household Number + Person Number + Hospitalization Number.
 
-* Sector refers to whether the household is located in the urban sector or rural sector where 1=Rural and 2=Urban. This information is located in byte 15 with the common id.
+* Sector refers to whether the household is located in the urban sector or rural sector where 1=Rural and 2=Urban. This information is located in byte 15 with the common id. This variable has been constructed in every block.
